@@ -1,0 +1,19 @@
+{
+    "name": "supriyadi687/tdd-php",
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "autoload": {
+        "psr-4": {
+            "TddPhp\\": "src/",
+            "TddPhp\\Test\\": "test"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agus Supriyadi",
+            "email": "agus@durian.money"
+        }
+    ],
+    "require": {}
+}
